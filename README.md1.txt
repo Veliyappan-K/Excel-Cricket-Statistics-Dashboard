@@ -1,34 +1,41 @@
-Cricket Statistics Dashboard using Excel
+# Cricket Statistics Dashboard using Excel
 
-Project Overview
-Created an interactive Cricket Statistics Dashboard using Microsoft Excel to analyze player and team performance.
+## Project Overview
+This project is an interactive Cricket Statistics Dashboard built using Microsoft Excel.
 
-Tools Used
+## Skills Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Cleaning
+- Dashboard Design
+
+## Dataset Columns
+- Player
+- Team
+- Runs
+- Balls
+- Fours
+- Sixes
+- Strike Rate
+
+## Dashboard Features
+- Total Runs
+- Total Sixes
+- Top Scorer
+- Highest Strike Rate
+- Team-wise Runs Analysis
+- Team-wise Sixes Distribution
+- Match-wise Runs Analysis
+
+## Key Insights
+- Csk scored the highest total runs.
+- Ruturaj Gaikwad emerged as the top scorer.
+- Interactive slicers allow filtering by Team, Player, and Match.
+
+## Tools Used
 Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Data Cleaning
 
-Key Insights
-
-Total Runs: 5831
-Total Sixes: 269
-Top Scorer: Ruturaj Gaikwad
-Highest Strike Rate: 290
-
-Dashboard Features
-
-Team-wise Runs Analysis
-Top 5 Players by Runs
-Team-wise Sixes Distribution
-Match-wise Runs Analysis
-Interactive Filters using Slicers
-
-Skills Demonstrated
-
-Data Cleaning
-Data Analysis
-Pivot Tables
-Dashboard Creation
-Data Visualization
+## Author
+Veliyappan K
